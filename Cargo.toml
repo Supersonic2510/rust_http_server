@@ -1,0 +1,9 @@
+[package]
+name = "http-server-starter-rust"
+version = "0.1.0"
+authors = ["Supersonic2510"]
+edition = "2021"
+
+[dependencies]
+signal-hook = "0.3.17"
+structopt = "0.3.26"
